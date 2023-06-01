@@ -1,0 +1,61 @@
+name: simulator
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  go_router:
+  intl:
+
+  # Widgets
+  gap:
+  lottie:
+  widget_tools:
+  sliver_tools:
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner:
+  flutter_gen_runner:
+
+flutter_gen:
+  output: lib/screen/widget/assets/ # Optional (default: lib/gen/)
+  line_length: 80 # Optional (default: 80)
+
+  # Optional
+  integrations:
+    lottie: true
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+   - assets/images/
+  
+  fonts:
+
+    - family: SF-Pro-Rounded
+      fonts:
+        - asset: assets/fonts/SF-Pro-Rounded/SF-Pro-Rounded-Black.otf
+        - asset: assets/fonts/SF-Pro-Rounded/SF-Pro-Rounded-Bold.otf
+        - asset: assets/fonts/SF-Pro-Rounded/SF-Pro-Rounded-Heavy.otf
+        - asset: assets/fonts/SF-Pro-Rounded/SF-Pro-Rounded-Light.otf
+        - asset: assets/fonts/SF-Pro-Rounded/SF-Pro-Rounded-Medium.otf
+        - asset: assets/fonts/SF-Pro-Rounded/SF-Pro-Rounded-Regular.otf
+        - asset: assets/fonts/SF-Pro-Rounded/SF-Pro-Rounded-SemiBold.otf
+        - asset: assets/fonts/SF-Pro-Rounded/SF-Pro-Rounded-Thin.otf
+        - asset: assets/fonts/SF-Pro-Rounded/SF-Pro-Rounded-UltraLight.otf

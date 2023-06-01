@@ -1,0 +1,33 @@
+{
+    "welcome": "welcome !!!",
+    "trysimulatorpistons": "essayez le simulateur de la chaine de production de pistons de l'usine Cinetpay",
+    "getstarted": "commencer",
+
+    "presentation": "présentation",
+    "cinetpaysimulator": "Simulateur Cinetpay",
+    "fillinformation": "renseigner les informations pour simuler une chaine de production de pistons de l'usine Cinetpay :",
+
+
+    "productionmode": "mode de production :",
+    "pistonscount": "nombre de pistons :",
+    "recurrent": "récurrent",
+    "parallel": "parallèle",
+    "entercount": "entrez le nombre",
+
+    "createannfilterparts": "création et Filtrage des pieces de piston",
+    "processingandassemblypart": "traitement et Assemblage des pieces de piston",
+
+
+    "headcount": "nombre de têtes :",
+    "skirtcount": "nombre de jupes :",
+    "pincount": "nombre d'axes :",
+    "possiblepistoncount": "nombre de pistons possibles :",
+    "headduration": "durée des têtes :",
+    "skirtduration": "durée des jupes :",
+    "pinduration": "durée des axes :",
+    "assemblyduration": "durée d'assemblage :",
+    "totalduration": "durée totale :",
+    
+    "clear": "effacer"
+
+}

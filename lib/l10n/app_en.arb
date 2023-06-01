@@ -1,0 +1,31 @@
+{
+    "welcome": "welcome !!!",
+    "trysimulatorpistons": "try Cinetpay factory piston production line simulator",
+    "getstarted": "get started",
+
+    "presentation": "presentation",
+    "cinetpaysimulator": "Cinetpay Simulator",
+    "fillinformation": "fill in the information to simulate a Cinetpay factory piston production line :",
+
+    "productionmode": "production mode :",
+    "pistonscount": "pistons count :",
+    "recurrent": "recurrent",
+    "parallel": "parallel",
+    "entercount": "enter count",
+
+
+    "createannfilterparts": "creation and Filtering of piston parts",
+    "processingandassemblypart": "processing and assembly of piston parts",
+
+    "headcount": "head count :",
+    "skirtcount": "skirt count :",
+    "pincount": "pin count :",
+    "possiblepistoncount": "possible pistons count :",
+    "headduration": "head duration :",
+    "skirtduration": "skirt duration :",
+    "pinduration": "pin duration :",
+    "assemblyduration": "assembly duration :",
+    "totalduration": "total duration :",
+    
+    "clear": "clear"
+}
